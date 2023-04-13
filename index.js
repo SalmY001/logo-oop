@@ -53,7 +53,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err);
         }
-        console.log("Congratulations, you have Generated a logo.svg!");
+        console.log("Congratulations, you have generated a logo.svg!");
     })
 };
 
