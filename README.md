@@ -21,8 +21,9 @@
 
   ## Usage
   See walkthrough video and example image.
-  
-  
+
+  https://user-images.githubusercontent.com/80605132/231902443-d47db1b2-2f1b-4c62-8351-0984d12efd12.mp4
+
   ![triangle_test](https://user-images.githubusercontent.com/80605132/231888549-d1e2af39-7ee7-42df-af24-035d9811ab8a.jpg)
 
   
