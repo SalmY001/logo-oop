@@ -43,9 +43,6 @@ const questions = [
         name: 'shapeList',
         message: 'Logo Shape: Choose shape from list',
         choices: ['Circle','Square', 'Triangle'],
-        // //filter(value) {
-        //     return value;
-        // }
     },
 ];
 
@@ -111,7 +108,6 @@ async function init() {
 
 	//Print shape to log
 	console.log("Displaying shape:\n\n" + svgString);
-	//document.getElementById("svg_image").innerHTML = svgString;
 
 	console.log("Shape generation complete!");
 	console.log("Writing shape to file...");
