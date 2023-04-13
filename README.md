@@ -44,6 +44,9 @@
   To run tests, use the command: 
   
   npm run test
+  
+  ![tests_passing](https://user-images.githubusercontent.com/80605132/231889285-8539bf21-971e-4e12-b646-d55044580bc0.jpg)
+
 
   ## Questions
   If you have any questions about the repo, you can contact me on email: someone@gmail.com
