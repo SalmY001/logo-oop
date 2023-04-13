@@ -22,6 +22,10 @@
   ## Usage
   See walkthrough video and example image.
   
+  
+  ![triangle_test](https://user-images.githubusercontent.com/80605132/231888549-d1e2af39-7ee7-42df-af24-035d9811ab8a.jpg)
+
+  
 
   ## License
   This project is under the MIT license:
