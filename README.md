@@ -20,7 +20,7 @@
   npm i inquirer, npm install --save-dev jest
 
   ## Usage
-  See walkthrough video.
+  See walkthrough video and example image.
   
 
   ## License
@@ -33,7 +33,7 @@
   ## Contributors
   Sources viewed to help in the development of the app include: 
 
-  https://jestjs.io/docs/getting-started- Jest commands, https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker-ThomasCalle
+  https://jestjs.io/docs/getting-started- Jest commands, https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker
 
 
   ## Tests
