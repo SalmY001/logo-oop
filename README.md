@@ -21,7 +21,7 @@
 
   ## Usage
   The following steps indicate how to create the svg logo and run tests:
-  1. To start the application enter the words 'node index.js' into the terminal
+  1. To start the application enter the words "node index.js" into the terminal
   2. Enter three characters for the logo text
   3. Enter the name of a colour (Or a hexadecimal number) for the logo text
   4. Enter the name of a colour (Or a hexadecimal number) to fill the shape
