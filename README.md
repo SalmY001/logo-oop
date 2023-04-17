@@ -30,7 +30,7 @@
   
   
   
-  An example image of the generated logo application is shown below.
+  An example image of the generated svg logo is shown below.
 
   ![triangle_test](https://user-images.githubusercontent.com/80605132/231888549-d1e2af39-7ee7-42df-af24-035d9811ab8a.jpg)
 
