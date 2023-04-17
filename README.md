@@ -20,11 +20,15 @@
   npm i inquirer, npm install --save-dev jest
 
   ## Usage
-  See walkthrough video and example image.
-
-  https://user-images.githubusercontent.com/80605132/231902443-d47db1b2-2f1b-4c62-8351-0984d12efd12.mp4
+  The following steps indicate how to create the svg logo and run tests.
+  1. To start the application enter the words 'node index.js' into the terminal
+  2. Enter three characters for the logo text
+  3. Enter a colour for the logo text (Or a hexadecimal number)
+  4. Choose a logo shape from the dropdown list (Circle, Square or Triangle)
+  5. Enter the words 'npm run test' into the terminal and check that all tests pass, by using the Jest testing framework
   
   
+  An example image of the generated logo application is shown below.
 
   ![triangle_test](https://user-images.githubusercontent.com/80605132/231888549-d1e2af39-7ee7-42df-af24-035d9811ab8a.jpg)
 
