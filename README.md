@@ -23,9 +23,11 @@
   The following steps indicate how to create the svg logo and run tests.
   1. To start the application enter the words 'node index.js' into the terminal
   2. Enter three characters for the logo text
-  3. Enter a colour for the logo text (Or a hexadecimal number)
-  4. Choose a logo shape from the dropdown list (Circle, Square or Triangle)
-  5. Enter the words 'npm run test' into the terminal and check that all tests pass, by using the Jest testing framework
+  3. Enter the name of a colour (Or a hexadecimal number) for the logo text
+  4. Enter the name of a colour (Or a hexadecimal number) to fill the shape
+  5. Choose a logo shape from the dropdown list (Circle, Square or Triangle)
+  6. Enter the words 'npm run test' into the terminal and check that all tests pass, by using the Jest testing framework
+  
   
   
   An example image of the generated logo application is shown below.
